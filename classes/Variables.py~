@@ -1,0 +1,9 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue May 19 12:40:33 2015
+
+@author: cruz
+"""
+
+buttonPush = -1
+sentence = ""
